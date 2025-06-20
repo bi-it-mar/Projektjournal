@@ -20,9 +20,10 @@ Richtlinie für das Projektjournal:
 ## 1. Visual Studio & Emulator installieren und Einrichten<br/>
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/ef6115fa-8b8c-4983-8e0b-aec291dd551f" alt="Bild 2" width="500"/>
+  <img src="https://github.com/user-attachments/assets/20d99aa0-6a65-486f-ae74-329d37133e86" alt="Bild 2" width="500"/>
   <img src="https://github.com/user-attachments/assets/89d5fd13-c6db-4312-beb9-c5706390c5c1" alt="Bild 1" width="500"/>
   </p><br/><br/>
+
 
 
 
