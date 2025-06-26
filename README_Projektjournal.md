@@ -41,19 +41,14 @@ Das Projektjournal enthält die Dokumentation zum Fachblock.
   ![image](https://github.com/user-attachments/assets/659e3803-0f65-40c8-894a-0bb0861cabb4)
 
 
-- Seiten erstellt (Seitenname angepasst)
+- Seite erstellt (Angebote + Feedbackbereich) - Input von Herr Kienast (Effizienz) 26.06.2025
   
-![image](https://github.com/user-attachments/assets/c5892b23-9277-44a4-85de-d55e0400300f)
+![image](https://github.com/user-attachments/assets/81d40352-2390-44bd-a8f7-c97d6679a196)
 
-### Einheitliche Felder erstellt
+- Wireframe der Seite
 
-- Seite 1: Ferienaktivitäten - Angebote
+![image](https://github.com/user-attachments/assets/47fafa55-168b-4913-a78c-04e09149253c)
 
-![image](https://github.com/user-attachments/assets/9830e1ce-b19b-43b3-aaae-5828f5eaa301)
-
-- Seite 2: Anmeldeformular
-
-  ![image](https://github.com/user-attachments/assets/61596419-e397-4843-9cc7-6c3f0f565d01)
 
 
   
