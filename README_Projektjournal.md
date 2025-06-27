@@ -61,7 +61,27 @@ Das Projektjournal enthält die Dokumentation zum Fachblock.
 
 ![image](https://github.com/user-attachments/assets/63b6ae9f-e131-42e0-bcba-a4a689cf63fe)
 
+- Über Prototype "Andoid Compact" hinzugefügt (Frame) und den vorhandenen Content der Grösse angepasst
 
+![image](https://github.com/user-attachments/assets/8ff18337-12b3-476b-9ead-a72c7690e688)
+
+- Auf "Starten" gedrückt
+
+  ![image](https://github.com/user-attachments/assets/cb47d625-b2f2-42f3-9558-4cae8216fb2d)
+
+- Button bei den vorhandenen Workshops hinzugefügt (es steht drauf "Bewerten"), dieser soll auf der gleichen Seite zum Feedbackbereich führen (mit Scroll-Effekt) wo der Workshop mit den Infos steht wann er stattgefunden hat
+
+![image](https://github.com/user-attachments/assets/9cd858c0-7601-41d8-8fd5-67b410460aaa)
+
+- Feedbackbereich mit den Infos wann der Workshop/Kurs stattgefunden hat mit Möglichkeit zur Bewertung (in welcher Form muss ich noch entscheiden) und einem "Zurück" Button welcher mit Scroll-Effekt zurück führt (Ursprung vom gedrückten Button)
+
+![image](https://github.com/user-attachments/assets/c67c403a-45a4-4810-b7fc-c258ba654923)
+
+---
+
+### Zwischenstand: Noch Beschreibung der jeweiligen Kurse vervollständigen, Infos wann der Kurs stattgefunden hat beim Feedbackbereich einfügen und für die Bewertungsform entscheiden (vllt noch Feld wo man Feedback schreiben kann)
+
+  
 
 
 
