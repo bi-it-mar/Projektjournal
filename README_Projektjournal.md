@@ -49,6 +49,21 @@ Das Projektjournal enthält die Dokumentation zum Fachblock.
 
 ![image](https://github.com/user-attachments/assets/47fafa55-168b-4913-a78c-04e09149253c)
 
+- Wireframe --> Mockup: 1. Kurs erstellt (provisorisch als Vorlage) so oft kopiert und eingefügt dass die Anzahl der Kurse abgedeckt ist 27.06.2025
+
+![image](https://github.com/user-attachments/assets/0867db64-baf5-4b7c-801c-93c713b5ea77)
+
+- Gruppe erstellt um eine bessere Übersicht zu haben
+
+![image](https://github.com/user-attachments/assets/49e8503e-e7bd-4632-a04c-e977e938a15c)
+
+- Bei allen Vorlagen bereits die Gruppe erstellt mit passendem Namen
+
+![image](https://github.com/user-attachments/assets/63b6ae9f-e131-42e0-bcba-a4a689cf63fe)
+
+
+
+
 
 
   
