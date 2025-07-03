@@ -98,6 +98,7 @@ Das Projektjournal enthält die Dokumentation zum Fachblock.
 - Name = Pflichtfeld - Darf nicht leer sein
 - Bewertung = Pflichtfeld - Nur Werte von 1 bis 5 erlaubt
 - Kommentar = Optional - Maximal 400 Zeichen
+- Feedback = enabled == true, dann darf hint nicht leer sein
 
 
   
