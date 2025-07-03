@@ -81,9 +81,23 @@ Das Projektjournal enthält die Dokumentation zum Fachblock.
 
 ### Zwischenstand: Noch Beschreibung der jeweiligen Kurse vervollständigen, Infos wann der Kurs stattgefunden hat beim Feedbackbereich einfügen und für die Bewertungsform entscheiden (vllt noch Feld wo man Feedback schreiben kann)
 
-  
+## UML Klassendiagramm 03.07.2025
 
+![image](https://github.com/user-attachments/assets/8c325ebc-73c3-4b31-83d0-4472c6dcd2cc)
 
+## Formular/Validationen 03.07.2025
+
+# Formular
+
+- Name (name) (Textfeld)
+- Bewertung (rating); (Punkte Auswahl (Farbspektrum dunkel rot - dunkel grün))
+- Kommentar (comment); optional
+
+# Validationen (Überprüfungen)
+
+- Name = Pflichtfeld - Darf nicht leer sein
+- Bewertung = Pflichtfeld - Nur Werte von 1 bis 5 erlaubt
+- Kommentar = Optional - Maximal 400 Zeichen
 
 
   
