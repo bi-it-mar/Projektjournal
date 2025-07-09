@@ -100,6 +100,15 @@ Das Projektjournal enthält die Dokumentation zum Fachblock.
 - Kommentar = Optional - Maximal 400 Zeichen
 - Feedback = enabled == true, dann darf hint nicht leer sein
 
+## Phase 3: Umsetzung 04.07.2025
+
+- ChatGPT nach Schritt für Schritt Anleitung gefragt
+
+1. Visual Studio 2022 geöffnet
+2. Neues Projekt erstellt .NET MAUI
+3. Speicheort = C: (Lokal)  <-- Empfehlung von Ihnen
+
+
 
   
 
