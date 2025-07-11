@@ -108,11 +108,36 @@ Das Projektjournal enthält die Dokumentation zum Fachblock.
 2. Neues Projekt erstellt .NET MAUI
 3. Speicheort = C: (Lokal)  <-- Empfehlung von Ihnen
 
+---
 
+### Programmierstart 10.07.2025
 
-  
+1. Mit Hilfe von Benjamin Smith habe ich die Grundlage der Werbseite erstellt, und die Datei MoodTrackerDaten.json implementiert (im Verzeichnis Raw)
+2. Benjamin Smith hat mir gezeigt wie ich mit Hilfe von GitHub Copilot arbeiten kann;
 
-  
+- GitHub Copilot öffnen und bei der Auswahl auf "Lösung" klicken und dann die gewünschte Anweisung schreiben; Bei der Antwort (Code) auf "Anwenden" klicken und zum den Code effektiv zu übernehmen auf die TAB-Taste klicken
+
+3. Ich habe dann mit Hilfe von Copilot versucht mein Mockup bestmöglich zu programmieren
+
+<img width="362" height="937" alt="image" src="https://github.com/user-attachments/assets/ef1abb16-02ff-4af1-9614-6f973c44b928" />
+
+<img width="356" height="518" alt="image" src="https://github.com/user-attachments/assets/b9f02298-973c-4de2-a254-64769d74dc83" />
+
+<img width="342" height="521" alt="image" src="https://github.com/user-attachments/assets/ae8b93fb-c88c-497d-8535-51ecea878a66" />
+
+<img width="348" height="529" alt="image" src="https://github.com/user-attachments/assets/fcf62fba-c2ae-4b72-b60b-9941b4f2b62b" />
+
+<img width="334" height="524" alt="image" src="https://github.com/user-attachments/assets/b184b1d0-9cf5-443d-8433-520a66f55372" />
+
+<img width="370" height="529" alt="image" src="https://github.com/user-attachments/assets/20c89c09-9396-46cc-bbac-594984642897" />
+
+<img width="352" height="519" alt="image" src="https://github.com/user-attachments/assets/1b26f5f3-2d26-40d8-b0fa-8aa257c9b6f2" />
+
+<img width="350" height="524" alt="image" src="https://github.com/user-attachments/assets/42a6737e-0e4f-4cae-bd86-7f87475d502d" />
+
+# Schwierigkeiten
+
+Beim programmieren des Buttons hat plötzlich mein ganzer Code nicht mehr funktioniert und ich habe es noch nicht geschafft das erfolgreich umzusetzen
 
 
 
